@@ -16,7 +16,7 @@ Skilled in API development and integration, CRM customization, and software depl
 🌱 Currently Learning:
 
 Advanced data processing with Python and SQL
-Data analytics tools like Google Analytics, Tableau, Looker, and Power BI
+Data analytics tools like Google Analytics, and Tableau.
 CSS techniques for creating visually appealing, user-friendly interfaces
 📫 Get in Touch:
 
