@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Victor Perdue
 
-<!--
-**victorperdue/victorperdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile Full Stack Developer with a passion for creating efficient, scalable, and user-friendly applications. With experience in both front-end and back-end development, I enjoy working with a variety of technologies, including JavaScript, React, HTML, CSS, Python, SQL, and more. I have a strong background in building robust servers, designing databases, and crafting APIs that meet the needs of modern applications.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End: HTML, CSS, JavaScript, React, Redux
+Back-End: Node.js, Express, Python, PHP
+Databases: MySQL, MongoDB, SQL Server, Oracle
+Other Tools: Git, GitHub, Postman, Webflow
+💼 Professional Background:
+
+Extensive experience in IT support, troubleshooting, and network management
+Background in Full Stack Development with a focus on building end-to-end solutions
+Skilled in API development and integration, CRM customization, and software deployment
+🌱 Currently Learning:
+
+Advanced data processing with Python and SQL
+Data analytics tools like Google Analytics, Tableau, Looker, and Power BI
+CSS techniques for creating visually appealing, user-friendly interfaces
+📫 Get in Touch:
+
+I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to check out my repositories or connect with me!
